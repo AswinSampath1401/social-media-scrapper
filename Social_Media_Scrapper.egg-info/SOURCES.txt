@@ -1,0 +1,7 @@
+README.md
+setup.py
+Social_Media_Scrapper.egg-info/PKG-INFO
+Social_Media_Scrapper.egg-info/SOURCES.txt
+Social_Media_Scrapper.egg-info/dependency_links.txt
+Social_Media_Scrapper.egg-info/requires.txt
+Social_Media_Scrapper.egg-info/top_level.txt
